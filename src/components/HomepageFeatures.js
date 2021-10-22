@@ -2,6 +2,8 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 
+var asdf = 'asdf';
+
 const FeatureList = [
   {
     title: 'Easy to Use',
