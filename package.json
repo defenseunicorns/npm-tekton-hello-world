@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "lint": "eslint ./src/**/*.jsx",
+    "unit-test": "jest",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -40,6 +41,7 @@
   },
   "devDependencies": {
     "eslint": "^8.0.1",
-    "eslint-plugin-react": "^7.26.1"
+    "eslint-plugin-react": "^7.26.1",
+    "jest": "^27.3.1"
   }
 }
